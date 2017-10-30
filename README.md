@@ -24,3 +24,8 @@ Plans forward:
 2. Besides analyzing the state-level and county-level overview, use facility-level emission data to identify environmental hotspots that suffer from higher air emissions. Such analysis would be beneficial for local government to install remediation green infrastrucure for the community.
 3. Identify the most fluential industrial sectors for each typical air pollutants, keep track of their performance over time; and explore the variance within the sector.
 4. Create maps at state-, county- and facility-level to provides a more comprehensive emission profile over time and for different air emissions.
+
+Data Sources:
+1. https://www.eia.gov/environment/emissions/state/    
+2. https://www.epa.gov/ghgreporting/ghg-reporting-program-data-sets  
+3. https://www.epa.gov/air-emissions-inventories/nation
